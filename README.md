@@ -11,7 +11,7 @@ This script allows you to swiftly switch between different Java versions install
 ## Usage
 
 1. Clone or download this repository to your local machine.
-2. Run the `.bat` script either by double-clicking it or from the command line.
+2. Run the `.bat` script either by double-clicking it or from the command line. **Ensure you have administrator privileges when executing the script**.
 3. Follow the on-screen instructions to select a Java version.
 4. The `JAVA_HOME` environment variable will be automatically updated.
 
@@ -19,6 +19,7 @@ This script allows you to swiftly switch between different Java versions install
 
 - Windows OS.
 - The Java versions you wish to switch to should be installed in the default path (`C:\Program Files\Java\`).
+- **Administrator privileges** for modifying system environment variables.
 
 ## Contributions
 
